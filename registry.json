@@ -1,1 +1,1 @@
-{"nodes":{"BaseTele.display.controller":{"role":"server","name":"BaseTele.display.controller","lastSeen":1786318319063,"status":"online","computerId":0,"bindings":{},"capabilities":{}}}}
+{"nodes":{"BaseTele.display.controller":{"role":"server","name":"BaseTele.display.controller","lastSeen":1786318330960,"status":"online","computerId":0,"bindings":{},"capabilities":["ae2:cable_bus","modem","drive","modem","rftoolsutility:matter_transmitter"]}}}
