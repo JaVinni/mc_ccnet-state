@@ -1,1 +1,1 @@
-{"formats":{"dev.display.01":{"textScale":1,"elements":[{"y":2,"x":1,"default":"Hello from ccnet","color":32,"key":"greeting","textScale":2,"align":"center"},{"y":5,"x":1,"default":"dev.display.01","color":1,"key":"line2","textScale":1,"align":"center"}],"bg":32768}},"values":{"greeting":{"value":"Hello from ccnet","editable":true,"targets":["dev.display.01"]},"line2":{"value":"dev.display.01","editable":false,"targets":["dev.display.01"]}}}
+{"screens":{}}
